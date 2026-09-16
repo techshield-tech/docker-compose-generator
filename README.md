@@ -5,6 +5,7 @@ Build a valid Compose Specification `compose.yaml` from a form — fast, free, a
 **Live:** https://techshield-tech.github.io/docker-compose-generator/
 
 Part of [MMOALL Developer Tools](https://mmoall.com/tools).
+Also available at [mmoall.com/tools/docker-compose-generator](https://mmoall.com/tools/docker-compose-generator).
 
 ## Features
 
