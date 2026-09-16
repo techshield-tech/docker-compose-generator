@@ -1,5 +1,5 @@
 import { useCallback, useMemo, useState } from 'react';
-import { Button, CopyButton, ErrorBox, Panel, Select, TextArea, Toolbar, type SelectOption } from '../shell/ui';
+import { Button, CopyButton, ErrorBox, Panel, Select, TextArea, Toolbar, type SelectOption } from '@mmoall/tool-kit';
 import { genId } from './id';
 import { PRESET_KINDS, PRESET_LABELS, createPresetService, uniqueServiceName, type PresetKind } from './presets';
 import { parseComposeYaml } from './fromYaml';

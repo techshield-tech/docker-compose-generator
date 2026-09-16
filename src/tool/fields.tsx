@@ -1,7 +1,7 @@
-// Small form-field primitives local to this tool. `src/shell/ui.tsx` has no
-// generic text-input equivalent, so these fill that gap in the same visual
-// style (same classes as Select/TextArea in the shell) without touching
-// src/shell itself.
+// Small form-field primitives local to this tool. `@mmoall/tool-kit`'s ui
+// module has no generic text-input equivalent, so these fill that gap in
+// the same visual style (same classes as its Select/TextArea) without
+// touching the kit itself.
 
 import type { InputHTMLAttributes, ReactNode } from 'react';
 

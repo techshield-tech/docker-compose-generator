@@ -1,4 +1,4 @@
-import { Button, Panel, Select, Toolbar, type SelectOption } from '../shell/ui';
+import { Button, Panel, Select, Toolbar, type SelectOption } from '@mmoall/tool-kit';
 import { CheckboxField, Field, Input, ROW_CLASS, SectionLabel } from './fields';
 import { genId } from './id';
 import { listOps } from './listOps';
